@@ -1,0 +1,6 @@
+#include <iostream>
+
+int main() {
+    int W, H, x, y, r;
+    std::cin >> W >> H >> x >> y >> r ;
+}
